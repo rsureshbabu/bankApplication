@@ -1,0 +1,7 @@
+hellooo
+
+my name is suresh
+
+this is from bankApplication repo
+
+sample1.txt is a file 
